@@ -9,6 +9,7 @@ function App() {
      <Navbar/>
      <Landing />
      <Footer/>
+     <h1>Tommorow work</h1>
     </div>
   );
 }
