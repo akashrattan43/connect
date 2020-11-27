@@ -10,6 +10,7 @@ function App() {
      <Landing />
      <Footer/>
      <h1>Tommorow work</h1>
+     <h2>Finish the project</h2>
     </div>
   );
 }
